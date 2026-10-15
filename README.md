@@ -139,4 +139,4 @@ Power BI Desktop, DAX, data modelling, data visualisation, exploratory data anal
 
 ## Author
 
-**Subhrajyoti Bera** · [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/subhrajyotibera/)
+**Subhrajyoti Bera** · [LinkedIn](https://www.linkedin.com/in/subhrajyotibera/)
