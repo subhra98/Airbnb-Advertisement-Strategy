@@ -34,10 +34,10 @@ Where should Airbnb focus its advertising budget? Who are the users, when and on
 All pages have date, device and gender filters that cut across the visuals.
 
 <!-- Add screenshots to an /assets folder and update the paths below -->
-![EDA](assets/page1_eda.png)
-![User Demographics](assets/page2_demographics.png)
-![Temporal & Booking Trends](assets/page3_trends.png)
-![Performance & Revenue Insights](assets/page4_performance.png)
+![EDA](https://github.com/subhra98/Airbnb-Advertisement-Strategy/blob/763dbe2252a7869f80f42b97b4e21baf4aab93c8/Dashboard%20Images/EDA.png)
+![User Demographics](https://github.com/subhra98/Airbnb-Advertisement-Strategy/blob/763dbe2252a7869f80f42b97b4e21baf4aab93c8/Dashboard%20Images/Performance%20%26%20Revenue%20Insights.png)
+![Temporal & Booking Trends](https://github.com/subhra98/Airbnb-Advertisement-Strategy/blob/763dbe2252a7869f80f42b97b4e21baf4aab93c8/Dashboard%20Images/Temporal%20%26%20Booking%20Trends.png)
+![Performance & Revenue Insights](https://github.com/subhra98/Airbnb-Advertisement-Strategy/blob/763dbe2252a7869f80f42b97b4e21baf4aab93c8/Dashboard%20Images/User%20Demographics.png)
 
 ---
 
@@ -116,7 +116,7 @@ Power BI Desktop, DAX, data modelling, data visualisation, exploratory data anal
 ├── Airbnb.pbix          # Power BI dashboard
 ├── Airbnb.pdf           # Detailed analysis report
 ├── Airbnb.pptx          # Presentation
-├── assets/              # Dashboard screenshots
+├── Dashboard Images/              # Dashboard screenshots
 └── README.md
 ```
 
